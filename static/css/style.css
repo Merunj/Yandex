@@ -2,9 +2,9 @@
   text-align: center;
 }
 
-img {
-  max-width: 300px;
-  max-height: 150px;
+.img {
+  max-width: 1200;
+  max-height: 720;
 }
 
 form.login_form {
